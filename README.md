@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm Anton, a senior software engineer who likes to work with JavaScript/Typescript.
+Hi. I'm Anton, a senior software engineer who likes to work with JavaScript/Typescript/Solidity.
 
 - Blockchain developer (Dapp, DeFi, Bitcoin, Ethereum, Polkadot, Smart Contract, Solidity, Rust)
 - Web front-end developer (React.js, Next.js, Preact, Gatsby, React Native, Vue.js, Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
