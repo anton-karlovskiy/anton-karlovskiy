@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm Anton, a senior software engineer who likes to work with JavaScript/Typescript/Solidity.
+Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/C++.
 
 - Blockchain developer (Dapp, DeFi, Bitcoin, Ethereum, Polkadot, Smart Contract, Solidity, Rust)
 - Web front-end developer (React.js, Next.js, Preact, Gatsby, React Native, Vue.js, Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
@@ -16,7 +16,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 - 🌱 I'm currently focusing on blockchain technologies.
 - 🤔 I'm looking to help with building Dapp/DeFi products.
 - 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Dapp/DeFi development.
-- 📫 How to reach out to me: antonkarlovskiy@outlook.com
+- 📫 How to reach me: antonkarlovskiy@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
 
