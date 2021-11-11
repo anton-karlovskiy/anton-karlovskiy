@@ -21,6 +21,20 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
 
 
+
+### Open-Source Awards
+
+- [React Adaptive Hooks](https://osawards.com/react/2020)
+
+### Publication:
+
+- [Speed up navigations in React with Quicklink](https://web.dev/quicklink/)
+
+### Open Collective:
+
+- [React WebPerf Sponsorship](https://opencollective.com/chrome-webperf-sponsorship)
+- [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -35,6 +49,9 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Polkadot-informational?style=flat&color=3bac3a)
+![](https://img.shields.io/badge/Network-Harmony-informational?style=flat&color=3bac3a)
+![](https://img.shields.io/badge/Network-BSC-informational?style=flat&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
@@ -56,4 +73,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/antonkarlovskiy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/antonkarlovskiy)
+[![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
+[![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy/)
