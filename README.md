@@ -22,7 +22,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 
 
 
-### Open-Source Awards
+### Open-Source Awards:
 
 - [React Adaptive Hooks](https://osawards.com/react/2020)
 
