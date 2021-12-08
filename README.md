@@ -2,20 +2,20 @@
 
 Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/C++.
 
-- Blockchain developer (Dapp, DeFi, Bitcoin, Ethereum, Polkadot, Smart Contract, Solidity, Rust)
+- Blockchain developer (Dapp, DeFi, NFT, Bitcoin, Ethereum, Polkadot, Smart Contract, Solidity, Substrate)
 - Web front-end developer (React.js, Next.js, Preact, Gatsby, React Native, Vue.js, Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
 - Web performance & UI/UX expert ([web.dev](https://web.dev/), [Core Web Vitals](https://web.dev/vitals/), [Lighthouse](https://github.com/GoogleChrome/lighthouse), [WebPageTest](https://webpagetest.org/), [PageSpeedInsights](https://developers.google.com/speed/pagespeed/insights/), [Speed Curve](https://speedcurve.com/))
 
 In the past years, I've been working with a Google team and Nuxt team on web performance optimization, best practices in modern web development (React.js & Vue.js), and UX improvement.
 
-These days I'm passionate about blockchain technologies and mainly focusing on Dapp/DeFi/Smart Contract development.
+These days I'm passionate about blockchain technologies and mainly focusing on Dapp/DeFi/NFT/Smart Contract development.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I've been working on web performance optimization and UI/UX improvement (React.js & Vue.js).
 - 🌱 I'm currently focusing on blockchain technologies.
-- 🤔 I'm looking to help with building Dapp/DeFi products.
-- 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Dapp/DeFi development.
+- 🤔 I'm looking to help with building Dapp/DeFi/NFT products.
+- 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Dapp/DeFi/NFT development.
 - 📫 How to reach me: antonkarlovskiy@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
@@ -29,6 +29,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 ### Publication:
 
 - [Speed up navigations in React with Quicklink](https://web.dev/quicklink/)
+- [A non-trivial learning app in Next.js, Angular or Nuxt.js](https://movies-app.zaps.dev/)
 
 ### Open Collective:
 
