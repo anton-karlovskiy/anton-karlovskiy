@@ -30,6 +30,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 
 - [Speed up navigations in React with Quicklink](https://web.dev/quicklink/)
 - [Learning Patterns (Patterns for building powerful web apps with vanilla JavaScript and React)](https://www.google.ru/books/edition/Learning_Patterns/BnJLEAAAQBAJ)
+- [The humans behind patterns.dev](https://www.patterns.dev/about/)
 - [A non-trivial learning app in Next.js, Angular or Nuxt.js](https://movies-app.zaps.dev/)
 
 ### Open Collectives:
