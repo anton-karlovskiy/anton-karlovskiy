@@ -29,8 +29,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 ### Publications:
 
 - [Speed up navigations in React with Quicklink](https://web.dev/quicklink/)
-- [Learning Patterns (Patterns for building powerful web apps with vanilla JavaScript and React)](https://www.google.ru/books/edition/Learning_Patterns/BnJLEAAAQBAJ)
-- [The humans behind patterns.dev](https://www.patterns.dev/about/)
+- [Optimizing for the Core Web Vitals on a React + Next.js app (A case study optimizing a Next.js app for performance)](https://www.patterns.dev/posts/nextjs-casestudy/)
 - [A non-trivial learning app in Next.js, Angular or Nuxt.js](https://movies-app.zaps.dev/)
 
 ### Open Collectives:
@@ -80,3 +79,4 @@ These days I'm passionate about blockchain technologies and mainly focusing on D
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/antonkarlovskiy)
 [![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
 [![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy/)
+[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
