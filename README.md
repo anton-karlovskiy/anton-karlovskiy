@@ -2,7 +2,7 @@
 
 Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/C++.
 
-- Blockchain developer (Smart Contract/Dapp/DeFi/NFT/DAO, Bitcoin/Ethereum/BSC/Polygon/Avalanche/Harmony/Fantom/Polkadot/Kusama, Solidity/Truffle/Ganache/Hardhat/Waffle/OpenZepplin, Web3.js/Ethers.js/Web3-react/Substrate/Polkadot-js API/Typechain/TheGraph/IPFS)
+- Blockchain developer (Smart Contract/Dapp/DeFi/NFT/DAO, Bitcoin/Ethereum/BSC/Polygon/Avalanche/Harmony/Fantom/Polkadot/Kusama, Solidity/Truffle/Ganache/Hardhat/Waffle/OpenZeppelin, Web3.js/Ethers.js/Web3-react/Substrate/Polkadot-js API/Typechain/TheGraph/IPFS)
 - Web front-end developer (TypeScript/JavaScript, React.js/Next.js/Preact/Gatsby, React Native, Vue.js/Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
 - Web performance & UI/UX expert ([web.dev](https://web.dev/), [Core Web Vitals](https://web.dev/vitals/), [Lighthouse](https://github.com/GoogleChrome/lighthouse), [WebPageTest](https://webpagetest.org/), [PageSpeedInsights](https://developers.google.com/speed/pagespeed/insights/), [Speed Curve](https://speedcurve.com/))
 
