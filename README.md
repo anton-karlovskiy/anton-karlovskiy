@@ -22,11 +22,17 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 
 ### Work Experience
 
-- [GoogleChrome](https://github.com/GoogleChrome)
-- [Interlay](https://github.com/interlay)
-- [Mantle](https://github.com/mantlenetworkio)
-- [BitDAO](https://github.com/bitdao-io)
-- [Windranger](https://github.com/windranger-io)
+- Google Chrome ([GitHub](https://github.com/GoogleChrome) | [X](https://x.com/googlechrome))
+- Interlay ([GitHub](https://github.com/interlay) | [X](https://x.com/interlayhq))
+- Mantle ([GitHub](https://github.com/mantlenetworkio) | [X](https://x.com/0xMantle))
+- BitDAO ([GitHub](https://github.com/bitdao-io) | [X](https://x.com/bitdao_official))
+- Windranger ([GitHub](https://github.com/windranger-io) | [X](https://x.com/windrangerlabs))
+- Kado ([X](https://x.com/kado_money))
+- Unizen ([GitHub](https://github.com/unizen-io) | [X](https://x.com/unizen_io))
+- Metavault ([GitHub](https://github.com/metavaultorg) | [X](https://x.com/MetavaultTRADE))
+- Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [X](https://x.com/impermaxfinance))
+- Seven Lakes Technologies ([X](https://x.com/sevenlakestech))
+- Andersen EV ([X](https://x.com/andersen_ev))
 
 ### Open-Source Awards
 
@@ -35,17 +41,21 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 ### Publications
 
 - [Speed up navigations in React with Quicklink](https://web.dev/quicklink)
+- [Prefetching in create-react-app with Quicklink](https://web.dev/articles/codelab-quicklink)
 - [The humans behind patterns.dev](https://www.patterns.dev/about)
 - [Optimizing for the Core Web Vitals on a React + Next.js app (A case study optimizing a Next.js app for performance)](https://www.patterns.dev/posts/nextjs-casestudy)
 
 ### Projects
 
-- [quicklink](https://github.com/GoogleChromeLabs/quicklink)
-- [adaptive-loading](https://github.com/GoogleChromeLabs/adaptive-loading)
-- [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
-- [next-movies](https://github.com/tastejs/next-movies)
-- [nuxt-movies](https://github.com/tastejs/nuxt-movies)
-- [interbtc-ui](https://github.com/interlay/interbtc-ui)
+- Quicklink ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
+- Adaptive Loading ([GitHub](https://github.com/GoogleChromeLabs/adaptive-loading) | [Website](https://adaptive-loading.web.app) | [Article](https://web.dev/articles/adaptive-loading-cds-2019) | [Youtube](https://www.youtube.com/watch?v=puUPpVrIRkc))
+- React Adaptive Hooks ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks))
+- Interlay Bitcoin DeFi Hub ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
+- Mantle Bridge ([Web App](https://bridge.mantle.xyz))
+- Kado - Buy or Sell Digital Assets Instantly ([Web App](https://app.kado.money/))
+- Unizen - Cross-Chain enabled DeFi / DEX Aggregator ([Web App](https://app.unizen.io))
+- Next Movies ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
+- Nuxt Movies ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
 
 ### Open Collectives
 
