@@ -59,7 +59,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 
 ### Open Collectives
 
-- [React WebPerf Sponsorship](https://opencollective.com/chrome-webperf-sponsorship)
+- [React and GenAI](https://opencollective.com/chrome-react-ai)
 - [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
 
 ### Languages and Tools
