@@ -30,7 +30,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 - Kado ([LinkedIn](https://www.linkedin.com/company/kado-software) | [Web App](https://swapped.com) | [Website](https://www.kado.money) | [X](https://x.com/kado_money))
 - Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [X](https://x.com/unizen_io))
 - Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [X](https://x.com/MetavaultTRADE))
-- Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [X](https://x.com/impermaxfinance))
+- Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [X](https://x.com/impermaxfinance))
 - Seven Lakes Technologies ([X](https://x.com/sevenlakestech))
 - Andersen EV ([X](https://x.com/andersen_ev))
 
