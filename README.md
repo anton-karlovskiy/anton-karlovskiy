@@ -7,7 +7,7 @@ Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, 
 - Web Full-Stack Development — Skilled in building scalable front-end and back-end applications with TypeScript/JavaScript, React.js, Next.js, Vue.js, Nuxt.js, Gatsby, Preact, Eleventy, and Node.js; experienced with GraphQL, PWA development, and test-driven development (TDD)
 - Web Performance & UI/UX Optimization — Specialized in web performance engineering and user experience design, leveraging tools such as [Core Web Vitals](https://web.dev/vitals), [Lighthouse](https://github.com/GoogleChrome/lighthouse), [WebPageTest](https://webpagetest.org), [PageSpeedInsights](https://developers.google.com/speed/pagespeed/insights), and [Speed Curve](https://speedcurve.com), with expertise in responsive design, accessibility, and modern performance best practices
 
-In the past years, I've been working with a Google team and Nuxt team on web front-end development, web performance optimization, best practices in modern web development (React.js & Vue.js), and UX improvements.
+In recent years, I’ve collaborated with the Google Chrome team and the Nuxt team on web front-end development, performance optimization, and best practices in modern web frameworks (React.js and Vue.js), with a strong focus on user experience improvements.
 
 These days I'm passionate about AI and blockchain technologies and mainly focusing on Smart Contract/Dapp/DeFi/NFT/DAO and Machine Learning/Deep Learning/Generative AI development.
 
