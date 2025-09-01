@@ -26,7 +26,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 - Interlay ([GitHub](https://github.com/interlay) | [X](https://x.com/interlayhq))
 - Mantle ([GitHub](https://github.com/mantlenetworkio) | [X](https://x.com/0xMantle))
 - BitDAO ([GitHub](https://github.com/bitdao-io) | [X](https://x.com/bitdao_official))
-- Windranger ([GitHub](https://github.com/windranger-io) | [X](https://x.com/windrangerlabs))
+- Windranger Labs ([GitHub](https://github.com/windranger-io) | [X](https://x.com/windrangerlabs) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io))
 - Kado ([X](https://x.com/kado_money))
 - Unizen ([GitHub](https://github.com/unizen-io) | [X](https://x.com/unizen_io))
 - Metavault ([GitHub](https://github.com/metavaultorg) | [X](https://x.com/MetavaultTRADE))
