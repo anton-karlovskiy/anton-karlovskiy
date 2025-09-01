@@ -51,7 +51,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - React Adaptive Hooks ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks))
 - Interlay Bitcoin DeFi Hub ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
 - Mantle Bridge ([Web App](https://bridge.mantle.xyz))
-- Kado - Buy or Sell Digital Assets Instantly ([Web App](https://app.kado.money/))
+- Kado - Buy or Sell Digital Assets Instantly ([Web App](https://swapped.com))
 - Unizen - Cross-Chain enabled DeFi / DEX Aggregator ([Web App](https://app.unizen.io))
 - Next Movies ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
 - Nuxt Movies ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
@@ -60,6 +60,14 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 - [React and GenAI](https://opencollective.com/chrome-react-ai)
 - [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/antonkarlovskiy)](https://x.com/antonkarlovskiy)
+[![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
+[![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy)
+[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about)
 
 ### Languages and Tools
 
@@ -98,11 +106,3 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/antonkarlovskiy)](https://x.com/antonkarlovskiy)
-[![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
-[![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy)
-[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about)
