@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/Rust/Python/C++.
+Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, blockchain, full-stack web development, and web performance optimization, with expertise in JavaScript/TypeScript, Solidity, Rust, Python, and C++.
 
 - AI / Machine Learning — Proficient in machine learning and deep learning with expertise in TensorFlow, PyTorch, and scikit-learn; experienced in neural networks, transformers, and LLM fine-tuning, as well as data preprocessing, model optimization, and deployment for tasks including prediction, classification, and natural language processing
 - Blockchain Development — Proficient in smart contract and dApp development across Ethereum, Bitcoin, BNB Chain, Arbitrum, Base, Polygon, Avalanche, Polkadot, and Kusama; experienced with DeFi, NFT, and DAO protocols, using frameworks like Solidity, Hardhat, Foundry, OpenZeppelin, and tools such as [ethers.js](https://github.com/ethers-io/ethers.js), [viem](https://github.com/wevm/viem), [web3.js](https://github.com/web3/web3.js), [wagmi](https://github.com/wevm/wagmi), [polkadot-sdk](https://github.com/paritytech/polkadot-sdk), [uniswap-sdk](https://github.com/Uniswap/sdks), TheGraph, IPFS, and [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2)
