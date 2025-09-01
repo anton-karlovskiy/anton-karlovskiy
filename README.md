@@ -11,12 +11,10 @@ In recent years, I’ve collaborated with the Google Chrome team and the Nuxt te
 
 These days, I’m passionate about advancing AI technologies, with a focus on machine learning, deep learning, and generative AI, while also applying my expertise in blockchain through smart contract, dApp, DeFi, NFT, and DAO development.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
-
-- 🌱 I've been working on web performance optimization and UI/UX improvements (React.js & Vue.js).
-- 🌱 I'm currently focusing on blockchain and AI technologies.
-- 🤔 I'm looking to help with building Dapp/DeFi/NFT/DAO and AI products.
-- 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Smart Contract/Dapp/DeFi/NFT/DAO development.
+- 🌱 I’ve been working on web performance optimization and UI/UX improvements with modern frameworks like React.js and Vue.js.
+- 🌱 I’m currently focused on AI and blockchain technologies, exploring applications in machine learning, generative AI, and decentralized systems.
+- 🤔 I’m looking to contribute to building AI-driven products as well as dApps, DeFi, NFT, and DAO solutions.
+- 💬 Ask me anything about full-stack web development, performance optimization, UX best practices, blockchain development, or AI/ML.
 - 📫 How to reach me: antonkarlovskiy@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
