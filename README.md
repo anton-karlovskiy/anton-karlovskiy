@@ -32,7 +32,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 - Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [X](https://x.com/MetavaultTRADE))
 - Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [X](https://x.com/impermaxfinance))
 - Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [X (W Energy)](https://x.com/wenergysoftware) | [X (Seven Lakes Technologies)](https://x.com/sevenlakestech))
-- Andersen EV ([X](https://x.com/andersen_ev))
+- Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [X](https://x.com/andersen_ev))
 
 ### Open-Source Awards
 
