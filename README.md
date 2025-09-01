@@ -24,7 +24,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [X](https://x.com/googlechrome))
 - Interlay ([GitHub](https://github.com/interlay) | [App](https://app.interlay.io) | [Website](https://www.interlay.io) | [X](https://x.com/interlayhq))
-- Mantle ([GitHub](https://github.com/mantlenetworkio) | [X](https://x.com/0xMantle))
+- Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [X](https://x.com/0xMantle))
 - BitDAO ([GitHub](https://github.com/bitdao-io) | [X](https://x.com/bitdao_official))
 - Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [X](https://x.com/windrangerlabs))
 - Kado ([X](https://x.com/kado_money))
