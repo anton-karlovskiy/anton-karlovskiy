@@ -1,5 +1,9 @@
 ### Hey Everyone 👋
 
+- 💼 I’m open to freelance, full-time, and part-time opportunities in software development.
+- 👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.
+- 📫 Feel free to reach out at my [Email](antonkarlovskiy@outlook.com) or [Telegram](https://t.me/anton_karlovskiy) to discuss potential collaborations.
+
 Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, blockchain, full-stack web development, and web performance optimization, with expertise in JavaScript/TypeScript, Solidity, Rust, Python, and C++.
 
 - AI / Machine Learning — Proficient in machine learning and deep learning with expertise in TensorFlow, PyTorch, and scikit-learn; experienced in neural networks, transformers, and LLM fine-tuning, as well as data preprocessing, model optimization, and deployment for tasks including prediction, classification, and natural language processing
