@@ -68,6 +68,8 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Unizen - Cross-Chain enabled DeFi / DEX Aggregator ([Web App](https://app.unizen.io))
 - Next Movies ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
 - Nuxt Movies ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
+- React Loading Patterns ([GitHub](https://github.com/anton-karlovskiy/loading-patterns-tool-prototype) | [Web App](https://loading-patterns.vercel.app))
+- Metrics Viz ([GitHub](https://github.com/anton-karlovskiy/cra-metrics-visualizer-prototype) | [Web App](https://cra-metrics-visualizer-prototype.vercel.app))
 
 ### Languages and Tools
 
