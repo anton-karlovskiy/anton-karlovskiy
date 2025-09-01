@@ -23,7 +23,7 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 ### Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [X](https://x.com/googlechrome))
-- Interlay ([GitHub](https://github.com/interlay) | [X](https://x.com/interlayhq))
+- Interlay ([GitHub](https://github.com/interlay) | [X](https://x.com/interlayhq) | [App](https://app.interlay.io) | [Website](https://www.interlay.io))
 - Mantle ([GitHub](https://github.com/mantlenetworkio) | [X](https://x.com/0xMantle))
 - BitDAO ([GitHub](https://github.com/bitdao-io) | [X](https://x.com/bitdao_official))
 - Windranger Labs ([GitHub](https://github.com/windranger-io) | [X](https://x.com/windrangerlabs) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io))
