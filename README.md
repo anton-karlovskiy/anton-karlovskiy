@@ -1,8 +1,8 @@
 ### Hey Everyone 👋
 
-- 💼 I’m open to freelance, full-time, and part-time opportunities in software development.
-- 👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.
-- 📫 Feel free to reach out at my [Email](mailto:antonkarlovskiy@outlook.com) or [Telegram](https://t.me/anton_karlovskiy) to discuss potential collaborations.
+💼 I’m open to freelance, full-time, and part-time opportunities in software development.  
+👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.  
+📫 Feel free to reach out at my [Email](mailto:antonkarlovskiy@outlook.com) or [Telegram](https://t.me/anton_karlovskiy) to discuss potential collaborations.  
 
 Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, blockchain, full-stack web development, and web performance optimization, with expertise in JavaScript/TypeScript, Solidity, Rust, Python, and C++.
 
@@ -33,7 +33,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Open-Source Awards
 
-- [React Adaptive Hooks](https://osawards.com/react/2020)
+- [React Open Source Awards 2020](https://osawards.com/react/2020)
 
 ### Open Collectives
 
