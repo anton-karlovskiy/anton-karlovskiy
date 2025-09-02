@@ -57,9 +57,9 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 ### Publications
 
 - [Speed up navigations in React with Quicklink](https://web.dev/quicklink)
-- [Prefetching in create-react-app with Quicklink](https://web.dev/articles/codelab-quicklink)
+- [Prefetching, prerendering, and service worker precaching](https://web.dev/learn/performance/prefetching-prerendering-precaching)
 - [The humans behind patterns.dev](https://www.patterns.dev/about)
-- [Optimizing for the Core Web Vitals on a React + Next.js app (A case study optimizing a Next.js app for performance)](https://www.patterns.dev/posts/nextjs-casestudy)
+- [Optimize Next.js apps for the Core Web Vitals](https://www.patterns.dev/react/nextjs-vitals)
 
 ### Projects
 
