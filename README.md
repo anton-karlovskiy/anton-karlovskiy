@@ -56,10 +56,13 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Publications
 
-- [Speed up navigations in React with Quicklink](https://web.dev/quicklink)
-- [Prefetching, prerendering, and service worker precaching](https://web.dev/learn/performance/prefetching-prerendering-precaching)
 - [The humans behind patterns.dev](https://www.patterns.dev/about)
+- [Speed up navigations in React with Quicklink](https://web.dev/articles/quicklink)
+- [Adaptive loading: improving web performance on slow devices](https://web.dev/articles/adaptive-loading-cds-2019)
+- [Prefetching, prerendering, and service worker precaching](https://web.dev/learn/performance/prefetching-prerendering-precaching)
 - [Optimize Next.js apps for the Core Web Vitals](https://www.patterns.dev/react/nextjs-vitals)
+- [Optimizing for the Core Web Vitals on a React + Next.js app (version 1)](https://docs.google.com/document/d/136WONXn9_Qqhs_wPxwWhsMcAOzVw1HoI8496A9oY6AQ/edit?tab=t.0#heading=h.8bq8e129whbh)
+- [Frontend development best practices (React.js)](https://gist.github.com/anton-karlovskiy/44d143bb7be5e03bf1db53d54f4874fa)
 
 ### Projects
 
