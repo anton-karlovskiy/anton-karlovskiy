@@ -57,6 +57,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 ### Publications
 
 - [The humans behind patterns.dev](https://www.patterns.dev/about)
+- [Import On Interaction](https://www.patterns.dev/vanilla/import-on-interaction)
 - [Speed up navigations in React with Quicklink](https://web.dev/articles/quicklink)
 - [Adaptive loading: improving web performance on slow devices](https://web.dev/articles/adaptive-loading-cds-2019)
 - [Prefetching, prerendering, and service worker precaching](https://web.dev/learn/performance/prefetching-prerendering-precaching)
