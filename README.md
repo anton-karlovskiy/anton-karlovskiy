@@ -42,17 +42,17 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Work Experience
 
-- Google Chrome ([GitHub](https://github.com/GoogleChrome) | [X](https://x.com/googlechrome))
-- Interlay ([GitHub](https://github.com/interlay) | [Web App](https://app.interlay.io) | [Website](https://www.interlay.io) | [X](https://x.com/interlayhq))
-- Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [X](https://x.com/0xMantle))
-- BitDAO ([GitHub](https://github.com/bitdao-io) | [X](https://x.com/bitdao_official))
-- Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [X](https://x.com/windrangerlabs))
-- Kado ([LinkedIn](https://www.linkedin.com/company/kado-software) | [Web App](https://swapped.com) | [Website](https://www.kado.money) | [X](https://x.com/kado_money))
-- Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [X](https://x.com/unizen_io))
-- Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [X](https://x.com/MetavaultTRADE))
-- Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [X](https://x.com/impermaxfinance))
+- Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
+- Interlay ([GitHub](https://github.com/interlay) | [Web App](https://app.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
+- Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [Twitter](https://x.com/0xMantle))
+- BitDAO ([GitHub](https://github.com/bitdao-io) | [Twitter](https://x.com/bitdao_official))
+- Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [Twitter](https://x.com/windrangerlabs))
+- Kado ([LinkedIn](https://www.linkedin.com/company/kado-software) | [Web App](https://swapped.com) | [Website](https://www.kado.money) | [Twitter](https://x.com/kado_money))
+- Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [Twitter](https://x.com/unizen_io))
+- Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [Twitter](https://x.com/MetavaultTRADE))
+- Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [Twitter](https://x.com/impermaxfinance))
 - Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [X (W Energy)](https://x.com/wenergysoftware) | [X (Seven Lakes Technologies)](https://x.com/sevenlakestech))
-- Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [X](https://x.com/andersen_ev))
+- Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [Twitter](https://x.com/andersen_ev))
 
 ### Publications
 
