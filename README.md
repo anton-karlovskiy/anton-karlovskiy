@@ -69,7 +69,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 - Quicklink at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
 - Adaptive Loading at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/adaptive-loading) | [Website](https://adaptive-loading.web.app) | [Article](https://web.dev/articles/adaptive-loading-cds-2019) | [Youtube](https://www.youtube.com/watch?v=puUPpVrIRkc))
-- React Adaptive Hooks at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks))
+- React Adaptive Hooks at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks) | [Award](https://osawards.com/react/2020))
 - Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
 - Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
@@ -77,7 +77,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Next Movies at Google Chrome ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
 - Nuxt Movies at Google Chrome ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
 - React Loading Patterns at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/loading-patterns-tool-prototype) | [Web App](https://loading-patterns.vercel.app))
-- Metrics Viz at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/cra-metrics-visualizer-prototype) | [Web App](https://cra-metrics-visualizer-prototype.vercel.app))
+- Metrics Viz at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/cra-metrics-visualizer-prototype) | [Web App](https://cra-metrics-visualizer.vercel.app))
 
 ### Languages and Tools
 
