@@ -76,8 +76,8 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 - Next Movies at Google Chrome ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
 - Nuxt Movies at Google Chrome ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
-- React Loading Patterns at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/loading-patterns-tool-prototype) | [Web App](https://loading-patterns.vercel.app))
-- Metrics Viz at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/cra-metrics-visualizer-prototype) | [Web App](https://cra-metrics-visualizer.vercel.app))
+- React Loading Patterns at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/loading-patterns-tool) | [Web App](https://loading-patterns.vercel.app))
+- Metrics Viz at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/cra-metrics-visualizer) | [Web App](https://cra-metrics-visualizer.vercel.app))
 
 ### Languages and Tools
 
