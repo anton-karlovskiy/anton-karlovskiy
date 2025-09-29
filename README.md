@@ -30,6 +30,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 [![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about)
 [![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
 [![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy)
+[![arc.dev](https://img.shields.io/badge/-arc.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://arc.dev/@antonkarlovskiy)](https://arc.dev/@antonkarlovskiy)
 
 ### Open-Source Awards
 
