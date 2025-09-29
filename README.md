@@ -71,10 +71,6 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Adaptive Loading at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/adaptive-loading) | [Website](https://adaptive-loading.web.app) | [Article](https://web.dev/articles/adaptive-loading-cds-2019) | [Youtube](https://www.youtube.com/watch?v=puUPpVrIRkc))
 - React Adaptive Hooks at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks) | [Award](https://osawards.com/react/2020))
 - Rage Click Detection Library at Google Chrome ([GitHub](https://github.com/addyosmani/rage-click))
-- Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
-- Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
-- Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
-- Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 - Next Movies at Google Chrome ([GitHub](https://github.com/tastejs/next-movies) | [Web App](https://movies-pi.vercel.app))
 - Nuxt Movies at Google Chrome ([GitHub](https://github.com/tastejs/nuxt-movies) | [Web App](https://nuxt-movies.vercel.app))
 - React Loading Patterns at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/loading-patterns-tool) | [Web App](https://loading-patterns.zaps.dev))
@@ -83,6 +79,10 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Selfie App at Google Chrome ([GitHub](https://github.com/addyosmani/selfie-app) | [Web App](https://selfie-everyday-app.firebaseapp.com))
 - Material Design Web Animations at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/material-design-web-animations-demo) | [Web App](https://animations.zaps.dev))
 - Core Web Vitals CLS Demo - Google's Cumulative Layout Shift Demonstration at Google Chrome ([GitHub](https://github.com/addyosmani/launch/tree/dev/web-vitals) | [Web App](https://web-vitals.zaps.dev))
+- Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
+- Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
+- Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
+- Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 
 ### Languages and Tools
 
