@@ -25,13 +25,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Find me 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/antonkarlovskiy)](https://x.com/antonkarlovskiy)
-[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about)
-[![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
-[![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy)
-[![arc.dev](https://img.shields.io/badge/-arc.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://arc.dev/@antonkarlovskiy)](https://arc.dev/@antonkarlovskiy)
-[![web3.career](https://img.shields.io/badge/-web3.career-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web3.career/@antonkarlovskiy)](https://web3.career/@antonkarlovskiy)
+[LinkedIn](https://www.linkedin.com/in/anton-karlovskiy) | [ORCID](https://orcid.org/0009-0001-3688-3613) | [Twitter](https://x.com/antonkarlovskiy) | [patterns.dev](https://www.patterns.dev/about) | [Open Collective](https://opencollective.com/anton-karlovskiy) | [web.dev](https://web.dev/authors/antonkarlovskiy) | [arc.dev](https://arc.dev/@antonkarlovskiy) | [web3.career](https://web3.career/@antonkarlovskiy)
 
 ### Open-Source Awards
 
