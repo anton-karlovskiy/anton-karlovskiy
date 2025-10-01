@@ -82,38 +82,49 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+I work across AI/ML, blockchain, and full‑stack web development. Below is an SEO‑optimized overview of my core stack and day‑to‑day tools.
 
-#### Blockchain Development
+#### Programming Languages
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Polkadot-informational?style=flat&color=3bac3a)
-![](https://img.shields.io/badge/Network-Arbitrum-informational?style=flat&color=3bac3a)
-![](https://img.shields.io/badge/Network-Base-informational?style=flat&color=3bac3a)
-![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&color=3bac3a)
-![](https://img.shields.io/badge/Network-BNB-informational?style=flat&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+- **TypeScript**, **JavaScript** (ESNext), **Solidity**, **Rust**, **Python**, **C++**
 
-#### Web & Mobile Development
+#### Front‑End Frameworks & UI
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+- **React**, **Next.js**, **Vue**, **Nuxt**, **Gatsby**, **Preact**
+- Performance‑first UX: **PWA**, **CSR/SSR/SSG/ISR**, **RSC**, **Code‑splitting**, **lazy loading**
 
-#### Other
+#### Back‑End, APIs & Realtime
 
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+- **Node.js**, **Express**, **Fastify**, **tRPC**, **GraphQL** (Apollo/Helix), **REST**
+- Realtime: **WebSockets**, **WebRTC**, **Server‑Sent Events**
+
+#### AI / Machine Learning
+
+- **PyTorch**, **TensorFlow**, **scikit‑learn**, **Transformers/LLMs**, **NLP**, **fine‑tuning**, **MLOps**
+
+#### Blockchain & Web3
+
+- Networks: **Ethereum**, **Bitcoin**, **BNB Chain**, **Polygon**, **Arbitrum**, **Base**, **Avalanche**, **Polkadot/Kusama**
+- Smart contracts: **Solidity**, **Hardhat**, **Foundry**, **OpenZeppelin**
+- dApp tooling: **ethers.js**, **viem**, **wagmi**, **web3.js**, **The Graph**, **IPFS**, **scaffold‑eth**
+- Tokens/standards: **ERC‑20**, **ERC‑721**, **ERC‑1155**, **EIP‑712**
+
+#### Databases & Storage
+
+- **PostgreSQL**, **MySQL**, **SQLite**, **MongoDB**, **Redis**, **Prisma/ORM**, **Edge KV/Storage**
+
+#### DevOps, CI/CD & Cloud
+
+- **Docker**, **GitHub Actions**, **CircleCI**, **Vercel**, **Netlify**, **Cloudflare**, **AWS (S3/CloudFront/Lambda)**
+
+#### Testing & Quality
+
+- **Jest**, **Vitest**, **Testing Library**, **Playwright**, **Cypress**, **TDD**
+
+#### Web Performance & Observability
+
+- **Core Web Vitals**, **Lighthouse**, **PageSpeed Insights**, **WebPageTest**, **SpeedCurve**, **Sentry**, **OpenTelemetry**
+
+#### Tooling
+
+- **Git**, **pnpm/npm/yarn**, **ESLint**, **Prettier**, **TurboRepo**, **Nx**, **Storybook**
