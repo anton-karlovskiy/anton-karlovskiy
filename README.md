@@ -47,7 +47,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [Twitter](https://x.com/unizen_io))
 - Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [Twitter](https://x.com/MetavaultTRADE))
 - Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [Twitter](https://x.com/impermaxfinance))
-- Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [X (W Energy)](https://x.com/wenergysoftware) | [X (Seven Lakes Technologies)](https://x.com/sevenlakestech))
+- Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [X (W Energy)](https://x.com/wenergysoftware) | [X (Seven Lakes Technologies)](https://x.com/sevenlakestech) | [Web App Prototype](https://joyn-allocation-app.vercel.app) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [Twitter](https://x.com/andersen_ev))
 
 ### Publications
@@ -75,6 +75,8 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Selfie App at Google Chrome ([GitHub](https://github.com/addyosmani/selfie-app) | [Web App](https://selfie-everyday-app.firebaseapp.com))
 - Material Design Web Animations at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/material-design-web-animations-demo) | [Web App](https://animations.zaps.dev))
 - Core Web Vitals CLS Demo - Google's Cumulative Layout Shift Demonstration at Google Chrome ([GitHub](https://github.com/addyosmani/launch/tree/dev/web-vitals) | [Web App](https://web-vitals.zaps.dev))
+- Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
+- Joyn AI - React UI Component Library ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
 - Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
