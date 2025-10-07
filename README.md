@@ -25,7 +25,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 ### Find me 🌎
 
-[LinkedIn](https://www.linkedin.com/in/anton-karlovskiy) | [ORCID](https://orcid.org/0009-0001-3688-3613) | [Twitter](https://x.com/antonkarlovskiy) | [patterns.dev](https://www.patterns.dev/about) | [Open Collective](https://opencollective.com/anton-karlovskiy) | [web.dev](https://web.dev/authors/antonkarlovskiy) | [arc.dev](https://arc.dev/@antonkarlovskiy) | [web3.career](https://web3.career/@antonkarlovskiy)
+[LinkedIn](https://www.linkedin.com/in/anton-karlovskiy) | [ORCID](https://orcid.org/0009-0001-3688-3613) | [Twitter](https://x.com/antonkarlovskiy) | [patterns.dev](https://www.patterns.dev/about) | [Open Collective](https://opencollective.com/anton-karlovskiy) | [web.dev](https://web.dev/authors/antonkarlovskiy) | [arc.dev](https://arc.dev/@antonkarlovskiy) | [web3.career](https://web3.career/@antonkarlovskiy) | [substack.com](https://substack.com/@antonkarlovskiy)
 
 ### Open-Source Awards
 
