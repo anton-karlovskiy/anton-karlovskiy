@@ -39,7 +39,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 ### Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
-- Interlay ([GitHub](https://github.com/interlay) | [Web App](https://app.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
+- Interlay ([GitHub](https://github.com/interlay) | [Interlay Web App](https://app.interlay.io) | [Kinsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
 - Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [Twitter](https://x.com/0xMantle))
 - BitDAO ([GitHub](https://github.com/bitdao-io) | [Twitter](https://x.com/bitdao_official))
 - Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [Twitter](https://x.com/windrangerlabs))
@@ -77,7 +77,9 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Core Web Vitals CLS Demo - Google's Cumulative Layout Shift Demonstration at Google Chrome ([GitHub](https://github.com/addyosmani/launch/tree/dev/web-vitals) | [Web App](https://web-vitals.zaps.dev))
 - Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
 - Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
-- Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Web App](https://app.interlay.io))
+- Interlay Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Interlay Web App](https://app.interlay.io) | [Kinsugi Web App](https://kintsugi.interlay.io))
+- Kinsugi Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Kinsugi Web App](https://kintsugi.interlay.io))
+- Crowdloan Web App at Interlay ([Crowdloan Web app](https://crowdloan.interlay.io))
 - Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
