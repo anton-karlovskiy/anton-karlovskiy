@@ -103,7 +103,7 @@ I work across AI/ML, blockchain, and full‑stack web development. Below is an S
 
 #### Back‑End, APIs & Realtime
 
-- **Node.js**, **Express**, **Fastify**, **tRPC**, **GraphQL** (Apollo/Helix), **REST**
+- **Node.js**, **Express**, **Fastify**, **FastAPI**, **tRPC**, **GraphQL** (Apollo/Helix), **REST**
 - Realtime: **WebSockets**, **WebRTC**, **Server‑Sent Events**
 
 #### AI / Machine Learning
