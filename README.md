@@ -86,7 +86,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - BitDAO Website at BitDAO ([GitHub](https://github.com/anton-karlovskiy/bitdao-website) | [Website](https://bitdao.io))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
-- Unizen Website at Unizen ([Website](https://www.unizen.io))
+- Unizen Website at Unizen ([GitHub](https://github.com/unizen-io/unizen-web) | [Website](https://www.unizen.io))
 
 ### Languages and Tools
 
