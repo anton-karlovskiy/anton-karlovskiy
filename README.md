@@ -39,9 +39,9 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 ### Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
-- Interlay ([GitHub](https://github.com/interlay) | [Interlay Web App](https://app.interlay.io) | [Kinsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
+- Interlay ([GitHub](https://github.com/interlay) | [Interlay Web App](https://app.interlay.io) | [Kintsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
 - Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [Twitter](https://x.com/0xMantle))
-- BitDAO ([GitHub](https://github.com/bitdao-io) | [Twitter](https://x.com/bitdao_official))
+- BitDAO ([GitHub](https://github.com/bitdao-io) | [Website](https://bitdao.io) | [Twitter](https://x.com/bitdao_official))
 - Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [Twitter](https://x.com/windrangerlabs))
 - Kado ([LinkedIn](https://www.linkedin.com/company/kado-software) | [Web App](https://swapped.com) | [Website](https://www.kado.money) | [Twitter](https://x.com/kado_money))
 - Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [Twitter](https://x.com/unizen_io))
@@ -78,9 +78,12 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
 - Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Interlay Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Interlay Web App](https://app.interlay.io))
-- Kinsugi Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Kinsugi Web App](https://kintsugi.interlay.io))
-- Crowdloan Web App at Interlay ([Crowdloan Web app](https://crowdloan.interlay.io))
+- Kintsugi Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Kintsugi Web App](https://kintsugi.interlay.io))
+- Interlay Crowdloan Web App at Interlay ([GitHub](https://github.com/anton-karlovskiy/interlay-crowdloan) | [Interlay Crowdloan Web App](https://crowdloan.interlay.io))
+- Kintsugi Crowdloan Web App at Interlay ([GitHub](https://github.com/anton-karlovskiy/kintsugi-crowdloan))
 - Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
+- Mantle Website at Windranger Labs ([Website](https://mantle.xyz))
+- BitDAO Website at BitDAO ([GitHub](https://github.com/anton-karlovskiy/bitdao-website) | [Website](https://bitdao.io))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 
