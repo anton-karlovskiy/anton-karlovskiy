@@ -39,8 +39,8 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 ### Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
-- Interlay ([GitHub](https://github.com/interlay) | [Interlay Web App](https://app.interlay.io) | [Kintsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
-- Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [Twitter](https://x.com/0xMantle))
+- Interlay ([GitHub](https://github.com/interlay) | [LinkedIn](https://www.linkedin.com/company/interlay-network) | [Interlay Web App](https://app.interlay.io) | [Kintsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [Twitter](https://x.com/interlayhq))
+- Mantle Network ([GitHub](https://github.com/mantlenetworkio) | [LinkedIn](https://www.linkedin.com/company/0xmantle) | [Bridge](https://app.mantle.xyz/bridge) | [Website](https://www.mantle.xyz) | [Twitter](https://x.com/0xMantle))
 - BitDAO ([GitHub](https://github.com/bitdao-io) | [Website](https://bitdao.io) | [Twitter](https://x.com/bitdao_official))
 - Windranger Labs ([GitHub](https://github.com/windranger-io) | [LinkedIn](https://www.linkedin.com/company/windranger) | [Website](https://www.windranger.io) | [Twitter](https://x.com/windrangerlabs))
 - Kado ([LinkedIn](https://www.linkedin.com/company/kado-software) | [Web App](https://swapped.com) | [Website](https://www.kado.money) | [Twitter](https://x.com/kado_money))
