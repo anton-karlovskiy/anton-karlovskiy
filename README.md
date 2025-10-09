@@ -76,8 +76,6 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Selfie App at Google Chrome ([GitHub](https://github.com/addyosmani/selfie-app) | [Web App](https://selfie-everyday-app.firebaseapp.com))
 - Material Design Web Animations at Google Chrome ([GitHub](https://github.com/anton-karlovskiy/material-design-web-animations-demo) | [Web App](https://animations.zaps.dev))
 - Core Web Vitals CLS Demo - Google's Cumulative Layout Shift Demonstration at Google Chrome ([GitHub](https://github.com/addyosmani/launch/tree/dev/web-vitals) | [Web App](https://web-vitals.zaps.dev))
-- Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
-- Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Interlay Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Interlay Web App](https://app.interlay.io))
 - Kintsugi Bitcoin DeFi Hub at Interlay ([GitHub](https://github.com/interlay/interbtc-ui) | [Kintsugi Web App](https://kintsugi.interlay.io))
 - Interlay Crowdloan Web App at Interlay ([GitHub](https://github.com/anton-karlovskiy/interlay-crowdloan) | [Interlay Crowdloan Web App](https://crowdloan.interlay.io))
@@ -85,9 +83,12 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Mantle Bridge at Windranger Labs ([Web App](https://bridge.mantle.xyz))
 - Mantle Website at Windranger Labs ([Website](https://mantle.xyz))
 - BitDAO Website at BitDAO ([GitHub](https://github.com/anton-karlovskiy/bitdao-website) | [Website](https://bitdao.io))
-- Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 - Unizen Website at Unizen ([GitHub](https://github.com/unizen-io/unizen-web) | [Website](https://www.unizen.io))
+- Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
+- Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
+- Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
+- Live video and social interaction platforms at Voxsync Inc ([Vixy Web App](https://vixy.com) | [Celeb Web App](https://celeb.tv))
 
 ### Languages and Tools
 
