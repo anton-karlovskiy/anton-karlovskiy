@@ -47,7 +47,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Unizen ([GitHub](https://github.com/unizen-io) | [LinkedIn](https://www.linkedin.com/company/unizen-io) | [Web App](https://app.unizen.io) | [Website](https://www.unizen.io) | [Twitter](https://x.com/unizen_io))
 - Metavault ([GitHub](https://github.com/metavaultorg) | [Web App](https://metavault.trade) | [Twitter](https://x.com/MetavaultTRADE))
 - Impermax Finance ([GitHub](https://github.com/Impermax-Finance) | [LinkedIn](https://www.linkedin.com/company/impermax-finance) | [Web App](https://app.impermax.finance) | [Website](https://www.impermax.finance) | [Twitter](https://x.com/impermaxfinance))
-- Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [X (W Energy)](https://x.com/wenergysoftware) | [X (Seven Lakes Technologies)](https://x.com/sevenlakestech) | [Web App Prototype](https://joyn-allocation-app.vercel.app) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
+- Seven Lakes Technologies (later acquired by W Energy) ([Website](https://wenergysoftware.com) | [LinkedIn](https://www.linkedin.com/company/wenergysoftware) | [Twitter (W Energy)](https://x.com/wenergysoftware) | [Twitter (Seven Lakes Technologies)](https://x.com/sevenlakestech) | [Web App Prototype](https://joyn-allocation-app.vercel.app) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [Twitter](https://x.com/andersen_ev))
 
 ### Publications
