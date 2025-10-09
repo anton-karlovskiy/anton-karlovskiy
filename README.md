@@ -36,6 +36,21 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - [React and GenAI](https://opencollective.com/chrome-react-ai)
 - [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
 
+### 🏆 Certificates
+
+I've earned professional certifications in various technologies and frameworks. You can view all my certificates in my [GitHub certificates repository](https://github.com/anton-karlovskiy/anton-karlovskiy/tree/main/certificates).
+
+**Epic React Certificates:**
+- [Advanced React Patterns](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/epic-react%20certificates/Anton%20K.-epic-react-certificate%20(Advanced%20React%20Patterns).pdf)
+- [React Fundamentals](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/epic-react%20certificates/Anton%20K.-epic-react-certificate%20(React%20Fundamentals).pdf)
+- [React Hooks](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/epic-react%20certificates/Anton%20K.-epic-react-certificate%20(React%20Hooks).pdf)
+- [Testing React Apps](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/epic-react%20certificates/Anton%20K.-epic-react-certificate%20(Testing%20React%20Apps).pdf)
+
+**Udemy Certificates:**
+- [Complete A.I. & Machine Learning, Data Science Bootcamp](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-70660fcc-aad0-44f2-bc1d-ce96837be7f5%20(Complete%20A.I.%20%26%20Machine%20Learning%2C%20Data%20Science%20Bootcamp).pdf)
+- [Fundamentals of Financial Services](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-90e08d2c-f8c0-4d34-ba02-cded575c2fd5%20(Fundamentals%20of%20Financial%20Services).pdf)
+- [Introduction to WebRTC](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-LJZAW30W%20(Introduction%20to%20WebRTC).pdf)
+
 ### Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
