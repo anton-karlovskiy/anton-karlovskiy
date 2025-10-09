@@ -93,51 +93,148 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Live video and social interaction platforms at Voxsync Inc ([Vixy Web App](https://vixy.com) | [Celeb Web App](https://celeb.tv))
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
-I work across AI/ML, blockchain, and full‑stack web development. Below is an SEO‑optimized overview of my core stack and day‑to‑day tools.
+> *I work across AI/ML, blockchain, and full‑stack web development. Below is an SEO‑optimized overview of my core stack and day‑to‑day tools.*
 
-#### Programming Languages
+---
 
-- **TypeScript**, **JavaScript** (ESNext), **Solidity**, **Rust**, **Python**, **C++**
+#### 💻 Programming Languages
 
-#### Front‑End Frameworks & UI
+**Core Languages:**
+- **TypeScript** - Type-safe JavaScript for scalable applications
+- **JavaScript** (ESNext) - Modern JavaScript with latest features
+- **Solidity** - Smart contract development for blockchain
+- **Rust** - Systems programming and performance-critical applications
+- **Python** - AI/ML development and backend services
+- **C++** - Performance-critical systems and embedded development
 
-- **React**, **Next.js**, **Vue**, **Nuxt**, **Gatsby**, **Preact**
-- Performance‑first UX: **PWA**, **CSR/SSR/SSG/ISR**, **RSC**, **Code‑splitting**, **lazy loading**
+---
 
-#### Back‑End, APIs & Realtime
+#### ⚛️ Front‑End Frameworks & UI
 
-- **Node.js**, **Express**, **Fastify**, **FastAPI**, **tRPC**, **GraphQL** (Apollo/Helix), **REST**
-- Realtime: **WebSockets**, **WebRTC**, **Server‑Sent Events**
+**Frameworks:**
+- **React** - Component-based UI library
+- **Next.js** - Full-stack React framework with SSR/SSG
+- **Vue** - Progressive JavaScript framework
+- **Nuxt** - Vue meta-framework for universal applications
+- **Gatsby** - Static site generator with React
+- **Preact** - Lightweight React alternative
 
-#### AI / Machine Learning
+**Performance‑first UX:**
+- **PWA** • **CSR/SSR/SSG/ISR** • **RSC** • **Code‑splitting** • **Lazy loading**
 
-- **PyTorch**, **TensorFlow**, **scikit‑learn**, **Transformers/LLMs**, **NLP**, **fine‑tuning**, **MLOps**
+---
 
-#### Blockchain & Web3
+#### 🔧 Back‑End, APIs & Realtime
 
-- Networks: **Ethereum**, **Bitcoin**, **BNB Chain**, **Polygon**, **Arbitrum**, **Base**, **Avalanche**, **Polkadot/Kusama**
-- Smart contracts: **Solidity**, **Hardhat**, **Foundry**, **OpenZeppelin**
-- dApp tooling: **ethers.js**, **viem**, **wagmi**, **web3.js**, **The Graph**, **IPFS**, **scaffold‑eth**
-- Tokens/standards: **ERC‑20**, **ERC‑721**, **ERC‑1155**, **EIP‑712**
+**Backend Frameworks:**
+- **Node.js** - JavaScript runtime for server-side development
+- **Express** - Minimal web framework for Node.js
+- **Fastify** - Fast and low overhead web framework
+- **FastAPI** - Modern Python web framework for APIs
+- **tRPC** - End-to-end typesafe APIs
+- **GraphQL** - Query language with Apollo/Helix
 
-#### Databases & Storage
+**Realtime Technologies:**
+- **WebSockets** • **WebRTC** • **Server‑Sent Events**
 
-- **PostgreSQL**, **MySQL**, **SQLite**, **MongoDB**, **Redis**, **Prisma/ORM**, **Edge KV/Storage**
+---
 
-#### DevOps, CI/CD & Cloud
+#### 🤖 AI / Machine Learning
 
-- **Docker**, **GitHub Actions**, **CircleCI**, **Vercel**, **Netlify**, **Cloudflare**, **AWS (S3/CloudFront/Lambda)**
+**ML Frameworks:**
+- **PyTorch** - Deep learning framework with dynamic computation
+- **TensorFlow** - End-to-end machine learning platform
+- **scikit‑learn** - Machine learning library for Python
 
-#### Testing & Quality
+**Advanced AI:**
+- **Transformers/LLMs** • **NLP** • **Fine‑tuning** • **MLOps**
 
-- **Jest**, **Vitest**, **Testing Library**, **Playwright**, **Cypress**, **TDD**
+---
 
-#### Web Performance & Observability
+#### ⛓️ Blockchain & Web3
 
-- **Core Web Vitals**, **Lighthouse**, **PageSpeed Insights**, **WebPageTest**, **SpeedCurve**, **Sentry**, **OpenTelemetry**
+**🌐 Networks:**
+Ethereum • Bitcoin • BNB Chain • Polygon • Arbitrum • Base • Avalanche • Polkadot/Kusama
 
-#### Tooling
+**📜 Smart Contracts:**
+Solidity • Hardhat • Foundry • OpenZeppelin
 
-- **Git**, **pnpm/npm/yarn**, **ESLint**, **Prettier**, **TurboRepo**, **Nx**, **Storybook**
+**🛠️ dApp Tooling:**
+ethers.js • viem • wagmi • web3.js • The Graph • IPFS • scaffold‑eth
+
+**🪙 Tokens/Standards:**
+ERC‑20 • ERC‑721 • ERC‑1155 • EIP‑712
+
+---
+
+#### 🗄️ Databases & Storage
+
+**Relational Databases:**
+- **PostgreSQL** - Advanced open-source relational database
+- **MySQL** - Popular open-source RDBMS
+- **SQLite** - Embedded SQL database engine
+
+**NoSQL & Caching:**
+- **MongoDB** - Document-oriented NoSQL database
+- **Redis** - In-memory data structure store
+- **Prisma/ORM** - Next-generation database toolkit
+
+**Edge Storage:**
+- **Edge KV/Storage** - Distributed edge storage solutions
+
+---
+
+#### ☁️ DevOps, CI/CD & Cloud
+
+**Containerization & CI/CD:**
+- **Docker** - Containerization platform
+- **GitHub Actions** - CI/CD pipeline automation
+- **CircleCI** - Continuous integration platform
+
+**Cloud Platforms:**
+- **Vercel** - Frontend cloud platform
+- **Netlify** - Web development platform
+- **Cloudflare** - CDN and security services
+
+**AWS Services:**
+- **S3** • **CloudFront** • **Lambda**
+
+---
+
+#### 🧪 Testing & Quality
+
+**Testing Frameworks:**
+- **Jest** - JavaScript testing framework
+- **Vitest** - Fast unit testing framework
+- **Testing Library** - Simple and complete testing utilities
+- **Playwright** - End-to-end testing for web applications
+- **Cypress** - Frontend testing framework
+- **TDD** - Test-driven development methodology
+
+---
+
+#### 📊 Web Performance & Observability
+
+**Performance Tools:**
+- **Core Web Vitals** - User experience metrics
+- **Lighthouse** - Performance auditing tool
+- **PageSpeed Insights** - Performance analysis
+- **WebPageTest** - Performance testing platform
+- **SpeedCurve** - Performance monitoring
+- **Sentry** - Error tracking and performance monitoring
+- **OpenTelemetry** - Observability framework
+
+---
+
+#### 🔨 Tooling
+
+**Development Tools:**
+- **Git** - Version control system
+- **pnpm/npm/yarn** - Package managers
+- **ESLint** - Code linting and quality
+- **Prettier** - Code formatting
+- **TurboRepo** - Monorepo build system
+- **Nx** - Development tools and build system
+- **Storybook** - Component development environment
