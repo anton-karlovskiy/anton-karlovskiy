@@ -13,7 +13,7 @@ Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, 
 
 In recent years, I’ve collaborated with the Google Chrome team and the Nuxt team on AI engineering, web front-end development, performance optimization, and best practices in modern web frameworks (React.js and Vue.js), with a strong focus on AI automation and user experience improvements.
 
-These days, I’m passionate about advancing AI technologies, with a focus on machine learning, deep learning, generative AI, and AI automation, while also applying my expertise in blockchain through smart contract, dApp, DeFi, NFT, and DAO development.
+These days, I’m passionate about advancing AI technologies, with a focus on machine learning, deep learning, generative AI, and AI agentization, while also applying my expertise in blockchain through smart contract, dApp, DeFi, NFT, and DAO development.
 
 - 🌱 I’ve been working on web performance optimization and UI/UX improvements with modern frameworks like React.js and Vue.js.
 - 🌱 I’m currently focused on AI and blockchain technologies, exploring applications in machine learning, generative AI, and decentralized systems.
