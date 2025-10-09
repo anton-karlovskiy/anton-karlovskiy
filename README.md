@@ -86,6 +86,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - Cross-Chain enabled DeFi / DEX Aggregator at Unizen ([Web App](https://app.unizen.io))
 - Unizen Website at Unizen ([GitHub](https://github.com/unizen-io/unizen-web) | [Website](https://www.unizen.io))
 - Buy or Sell Digital Assets Instantly at Kado ([Web App](https://swapped.com))
+- Cross-Chain, Decentralized Lending Protocol at Impermax Finance ([GitHub](https://github.com/Impermax-Finance/impermax-x-uniswap-v2-interface) | [Web App](https://app.impermax.finance))
 - Joyn Alloc UI - Industrial Network Visualization Platform at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-allocation-app) | [Web App Prototype](https://joyn-allocation-app.vercel.app))
 - Joyn AI - React UI Component Library at Seven Lakes Technologies ([GitHub](https://github.com/anton-karlovskiy/joyn-ai-component-library) | [Component Library](https://joyn-alloc-fdg-ui-storybook.netlify.app))
 - Live video and social interaction platforms at Voxsync Inc ([Vixy Web App](https://vixy.com) | [Celeb Web App](https://celeb.tv))
