@@ -1,4 +1,4 @@
-### Hey Everyone 👋
+### 👋 Hey Everyone
 
 💼 I’m open to freelance, full-time, and part-time opportunities in software development.  
 👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.  
@@ -23,15 +23,15 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
 
-### Find me 🌎
+### 🌎 Find me
 
 [LinkedIn](https://www.linkedin.com/in/anton-karlovskiy) | [ORCID](https://orcid.org/0009-0001-3688-3613) | [Twitter](https://x.com/antonkarlovskiy) | [patterns.dev](https://www.patterns.dev/about) | [Open Collective](https://opencollective.com/anton-karlovskiy) | [web.dev](https://web.dev/authors/antonkarlovskiy) | [arc.dev](https://arc.dev/@antonkarlovskiy) | [web3.career](https://web3.career/@antonkarlovskiy) | [substack.com](https://substack.com/@antonkarlovskiy) | [huggingface.co](https://huggingface.co/anton-karlovskiy)
 
-### Open-Source Awards
+### 🏅 Open-Source Awards
 
 - [React Open Source Awards 2020](https://osawards.com/react/2020)
 
-### Open Collectives
+### 🤝 Open Collectives
 
 - [React and GenAI](https://opencollective.com/chrome-react-ai)
 - [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
@@ -51,7 +51,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Fundamentals of Financial Services](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-90e08d2c-f8c0-4d34-ba02-cded575c2fd5%20(Fundamentals%20of%20Financial%20Services).pdf)
 - [Introduction to WebRTC](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-LJZAW30W%20(Introduction%20to%20WebRTC).pdf)
 
-### Work Experience
+### 💼 Work Experience
 
 - Google Chrome ([GitHub](https://github.com/GoogleChrome) | [Twitter](https://x.com/googlechrome))
 - Interlay ([GitHub](https://github.com/interlay) | [Interlay Web App](https://app.interlay.io) | [Kintsugi Web App](https://kintsugi.interlay.io) | [Crowdloan Web App](https://crowdloan.interlay.io) | [Website](https://www.interlay.io) | [LinkedIn](https://www.linkedin.com/company/interlay-network) | [Twitter](https://x.com/interlayhq))
@@ -66,7 +66,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - Voxsync Inc ([Website](https://voxsync.com) | [LinkedIn](https://ca.linkedin.com/company/voxsync))
 - Andersen EV ([Website](https://andersen-ev.com) | [LinkedIn](https://www.linkedin.com/company/andersenev) | [Twitter](https://x.com/andersen_ev))
 
-### Publications
+### 📚 Publications
 
 - [The humans behind patterns.dev](https://www.patterns.dev/about)
 - [Import On Interaction](https://www.patterns.dev/vanilla/import-on-interaction)
@@ -77,7 +77,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Optimizing for the Core Web Vitals on a React + Next.js app (version 1)](https://docs.google.com/document/d/136WONXn9_Qqhs_wPxwWhsMcAOzVw1HoI8496A9oY6AQ/edit?tab=t.0#heading=h.8bq8e129whbh)
 - [Frontend development best practices (React.js)](https://gist.github.com/anton-karlovskiy/44d143bb7be5e03bf1db53d54f4874fa)
 
-### Projects
+### 🚀 Projects
 
 - Quicklink at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
 - Adaptive Loading at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/adaptive-loading) | [Website](https://adaptive-loading.web.app) | [Article](https://web.dev/articles/adaptive-loading-cds-2019) | [Youtube](https://www.youtube.com/watch?v=puUPpVrIRkc))
