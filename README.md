@@ -6,7 +6,7 @@
 
 Hi, I'm Anton — a senior software engineer (10+ years) specializing in AI/ML, blockchain, full-stack web development, and web performance optimization, with expertise in JavaScript/TypeScript, Solidity, Rust, Python, and C++.
 
-- AI / Machine Learning — Proficient in machine learning and deep learning with expertise in PyTorch, TensorFlow, [transformers.js](https://huggingface.co/docs/transformers.js), scikit-learn, Matplotlib, NumPy, and pandas; experienced in neural networks, transformers, and LLM fine-tuning, as well as data preprocessing, model optimization, and deployment for tasks including prediction, classification, and natural language processing
+- AI / Machine Learning — Proficient in machine learning and deep learning with expertise in PyTorch, TensorFlow, [transformers.js](https://huggingface.co/docs/transformers.js), HuggingFace, LangChain, LlamaIndex, Gradio, scikit-learn, Matplotlib, NumPy, and pandas; experienced in neural networks, transformers, LLM fine-tuning (including LoRA and QLoRA), RAG (Retrieval-Augmented Generation), LLM engineering, agentic AI, prompt engineering, function calling/tool use, vector databases (Pinecone, Weaviate, Chroma, Qdrant), model serving (vLLM, Ollama), MLOps (MLflow, Weights & Biases), as well as data preprocessing, model optimization, and deployment for tasks including prediction, classification, natural language processing, and multi-modal AI
 - Blockchain Development — Proficient in smart contract and dApp development across Ethereum, Bitcoin, BNB Chain, Arbitrum, Base, Polygon, Avalanche, Polkadot, and Kusama; experienced with DeFi, NFT, and DAO protocols, using frameworks like Solidity, Hardhat, Foundry, OpenZeppelin, and tools such as [ethers.js](https://github.com/ethers-io/ethers.js), [web3.js](https://github.com/web3/web3.js), [viem](https://github.com/wevm/viem), [wagmi](https://github.com/wevm/wagmi), [rainbowkit](https://github.com/rainbow-me/rainbowkit), [polkadot-sdk](https://github.com/paritytech/polkadot-sdk), [uniswap-sdk](https://github.com/Uniswap/sdks), TheGraph, IPFS, and [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2)
 - Web Full-Stack Development — Skilled in building scalable front-end and back-end applications with TypeScript/JavaScript, React.js, Next.js, Vue.js, Nuxt.js, Gatsby, Preact, Eleventy, Node.js, and FastAPI; experienced with GraphQL, PWA development, and test-driven development (TDD)
 - Web Performance & UI/UX Optimization — Specialized in web performance engineering and user experience design, leveraging tools such as [Core Web Vitals](https://web.dev/vitals), [Lighthouse](https://github.com/GoogleChrome/lighthouse), [WebPageTest](https://webpagetest.org), [PageSpeedInsights](https://developers.google.com/speed/pagespeed/insights), and [Speed Curve](https://speedcurve.com), with expertise in responsive design, accessibility, and modern performance best practices
@@ -162,9 +162,37 @@ I've earned professional certifications in various technologies and frameworks. 
 - **PyTorch** - Deep learning framework with dynamic computation
 - **TensorFlow** - End-to-end machine learning platform
 - **scikit‑learn** - Machine learning library for Python
+- **HuggingFace** - Transformers library and model hub
+- **transformers.js** - Run transformers models in JavaScript
 
-**Advanced AI:**
-- **Transformers/LLMs** • **NLP** • **Fine‑tuning** • **MLOps**
+**LLM Frameworks & Tools:**
+- **LangChain** - Framework for building LLM applications
+- **LlamaIndex** - Data framework for LLM applications
+- **Gradio** - ML model deployment and interfaces
+- **LangSmith** - LLM observability and evaluation platform
+
+**Vector Databases & RAG:**
+- **Pinecone** • **Weaviate** • **Chroma** • **Qdrant** • **Milvus**
+- **RAG** (Retrieval-Augmented Generation) • **Embeddings** • **Semantic Search**
+
+**LLM Fine-tuning & Optimization:**
+- **LoRA** (Low-Rank Adaptation) • **QLoRA** (Quantized LoRA)
+- **Parameter-Efficient Fine-tuning** • **Model Quantization**
+
+**Model Serving & Inference:**
+- **vLLM** - High-throughput LLM serving
+- **Ollama** - Local LLM deployment
+- **TensorRT-LLM** - NVIDIA optimized inference
+
+**MLOps & Experimentation:**
+- **MLflow** - ML lifecycle management
+- **Weights & Biases** - Experiment tracking and monitoring
+- **Kubeflow** - Kubernetes ML workflows
+
+**Advanced AI Techniques:**
+- **Transformers/LLMs** • **NLP** • **Prompt Engineering** • **Function Calling/Tool Use**
+- **Agentic AI** • **Multi-modal AI** • **Computer Vision** (OpenCV)
+- **Neural Networks** • **Deep Learning** • **Transfer Learning**
 
 ---
 
