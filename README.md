@@ -146,6 +146,7 @@ I've earned professional certifications in various technologies and frameworks. 
 **Backend Frameworks:**
 - **Node.js** - JavaScript runtime for server-side development
 - **Express** - Minimal web framework for Node.js
+- **Nest.js** - Progressive Node.js framework for scalable applications
 - **Fastify** - Fast and low overhead web framework
 - **FastAPI** - Modern Python web framework for APIs
 - **tRPC** - End-to-end typesafe APIs
