@@ -79,6 +79,8 @@ I've earned professional certifications in various technologies and frameworks. 
 
 ### 🚀 Projects
 
+- AudioMassAI at Google Chrome ([GitHub](https://github.com/addyosmani/audioMassAI) | [Web App](https://audio.addy.ie))
+- Say at Google Chrome ([GitHub](https://github.com/addyosmani/say) | [Web App](https://say.addy.ie))
 - Quicklink at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
 - Adaptive Loading at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/adaptive-loading) | [Website](https://adaptive-loading.web.app) | [Article](https://web.dev/articles/adaptive-loading-cds-2019) | [Youtube](https://www.youtube.com/watch?v=puUPpVrIRkc))
 - React Adaptive Hooks at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/react-adaptive-hooks) | [Award](https://osawards.com/react/2020))
