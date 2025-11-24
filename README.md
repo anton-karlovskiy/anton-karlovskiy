@@ -35,6 +35,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 
 - [React and GenAI](https://opencollective.com/chrome-react-ai)
 - [Chrome Vue.js Sponsorship](https://opencollective.com/chrome-vue)
+- [Web AI Fund](https://opencollective.com/chrome/projects/web-ai-fund)
 
 ### 🏆 Certificates
 
