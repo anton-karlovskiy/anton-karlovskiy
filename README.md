@@ -80,7 +80,8 @@ I've earned professional certifications in various technologies and frameworks. 
 
 ### 🚀 Projects
 
-- Blackjack ([GitHub](https://github.com/anton-karlovskiy/shuffle-blackjack-clone) | [Web App](https://shuffle-blackjack-clone.vercel.app/))
+- Envelope Budgeting App ([GitHub](https://github.com/anton-karlovskiy/envelope-budgeting-app) | [Web App](https://anton-envelope-budgeting-app.vercel.app))
+- Blackjack ([GitHub](https://github.com/anton-karlovskiy/shuffle-blackjack-clone) | [Web App](https://shuffle-blackjack-clone.vercel.app))
 - AudioMassAI at Google Chrome ([GitHub](https://github.com/addyosmani/audioMassAI) | [Web App](https://audio.addy.ie))
 - Say at Google Chrome ([GitHub](https://github.com/addyosmani/say) | [Web App](https://say.addy.ie))
 - Quicklink at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
