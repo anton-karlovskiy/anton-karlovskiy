@@ -79,7 +79,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Frontend development best practices (React.js)](https://gist.github.com/anton-karlovskiy/44d143bb7be5e03bf1db53d54f4874fa)
 
 ### 🚀 Projects
-
+- XBorg Tech Challenge ([GitHub](https://github.com/anton-karlovskiy/xborg-tech-challenge))
 - Envelope Budgeting App ([GitHub](https://github.com/anton-karlovskiy/envelope-budgeting-app) | [Web App](https://anton-envelope-budgeting-app.vercel.app))
 - Blackjack ([GitHub](https://github.com/anton-karlovskiy/shuffle-blackjack-clone) | [Web App](https://shuffle-blackjack-clone.vercel.app))
 - AudioMassAI at Google Chrome ([GitHub](https://github.com/addyosmani/audioMassAI) | [Web App](https://audio.addy.ie))
