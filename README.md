@@ -114,6 +114,7 @@ I've earned professional certifications in various technologies and frameworks. 
 
 ### 💡 Practice Projects
 
+- React Minimal Concepts with Next.js ([GitHub](https://github.com/anton-karlovskiy/react-minimal-concepts-with-next) | [Web App](https://react-minimal-concepts-with-next.vercel.app))
 - Elegant Context ([GitHub](https://github.com/anton-karlovskiy/elegant-context) | [Web App](https://elegant-context-udemy.vercel.app))
 - Foodies ([GitHub](https://github.com/anton-karlovskiy/foodies) | [Web App](https://foodies-udemy.vercel.app))
 - XBorg Tech Challenge ([GitHub](https://github.com/anton-karlovskiy/xborg-tech-challenge))
