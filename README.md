@@ -51,6 +51,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Complete A.I. & Machine Learning, Data Science Bootcamp](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-70660fcc-aad0-44f2-bc1d-ce96837be7f5%20(Complete%20A.I.%20%26%20Machine%20Learning%2C%20Data%20Science%20Bootcamp).pdf)
 - [Fundamentals of Financial Services](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-90e08d2c-f8c0-4d34-ba02-cded575c2fd5%20(Fundamentals%20of%20Financial%20Services).pdf)
 - [Introduction to WebRTC](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-LJZAW30W%20(Introduction%20to%20WebRTC).pdf)
+- [Claude Code - The Practical Guide](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-49fa0206-f1c4-46a3-ae59-281af386ed26%20(Claude%20Code%20-%20The%20Practical%20Guide).pdf)
 
 ### 💼 Work Experience
 
