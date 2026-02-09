@@ -21,7 +21,7 @@ These days, I’m passionate about advancing AI technologies, with a focus on ma
 - 💬 Ask me anything about full-stack web development, performance optimization, UX best practices, blockchain development, or AI/ML.
 - 📫 How to reach me: antonkarlovskiy@outlook.com
 - 😄 Pronouns: He/His
-- ⚡ Dev motto: `First do it, then do it right, then do it better.`
+- ⚡ Motto: `First do it, then do it right, then do it better.`
 
 ### 🌎 Find Me
 
