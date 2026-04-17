@@ -52,6 +52,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Fundamentals of Financial Services](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-90e08d2c-f8c0-4d34-ba02-cded575c2fd5%20(Fundamentals%20of%20Financial%20Services).pdf)
 - [Introduction to WebRTC](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-LJZAW30W%20(Introduction%20to%20WebRTC).pdf)
 - [Claude Code - The Practical Guide](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-49fa0206-f1c4-46a3-ae59-281af386ed26%20(Claude%20Code%20-%20The%20Practical%20Guide).pdf)
+- [AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-d5a95adc-f14e-449a-aab0-e6ea1da02f66%20(AI%20Engineer%20Core%20Track%20-%20LLM%20Engineering%2C%20RAG%2C%20QLoRA%2C%20Agents).pdf)
 
 ### 💼 Work Experience
 
