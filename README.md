@@ -4,6 +4,8 @@
 👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.  
 📫 Feel free to reach out at my [Email](mailto:antonkarlovskiy@outlook.com) or [Telegram](https://t.me/anton_karlovskiy) to discuss potential collaborations.  
 
+I'm currently working on ZENOVA Lab, an AI layer for Web 3 security.  
+
 Hi, I'm a senior software engineer (10+ years) specializing in AI/ML, full-stack web development, blockchain, and web performance optimization, with expertise in JavaScript/TypeScript, Python, Solidity, Rust, and C++.
 
 - AI / Machine Learning — Proficient in machine learning and deep learning with expertise in PyTorch, TensorFlow, [transformers.js](https://huggingface.co/docs/transformers.js), HuggingFace, LangChain, LlamaIndex, Gradio, scikit-learn, Matplotlib, NumPy, and pandas; experienced in neural networks, transformers, LLM fine-tuning (including LoRA and QLoRA), RAG (Retrieval-Augmented Generation), LLM engineering, agentic AI, prompt engineering, function calling/tool use, vector databases (Pinecone, Weaviate, Chroma, Qdrant), model serving (vLLM, Ollama), MLOps (MLflow, Weights & Biases), as well as data preprocessing, model optimization, and deployment for tasks including prediction, classification, natural language processing, and multi-modal AI
