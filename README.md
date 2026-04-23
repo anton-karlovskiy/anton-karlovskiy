@@ -4,7 +4,7 @@
 👥 In addition to my individual work, I lead a dedicated software development team capable of delivering medium- to large-scale projects.  
 📫 Feel free to reach out at my [Email](mailto:antonkarlovskiy@outlook.com) or [Telegram](https://t.me/anton_karlovskiy) to discuss potential collaborations.  
 
-I'm currently working on ZENOVA Lab, an AI layer for Web 3 security.  
+I'm currently working on ZENOVA Lab, an AI layer for Web3 security.  
 
 Hi, I'm a senior software engineer (10+ years) specializing in AI/ML, full-stack web development, blockchain, and web performance optimization, with expertise in JavaScript/TypeScript, Python, Solidity, Rust, and C++.
 
