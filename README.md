@@ -84,6 +84,7 @@ I've earned professional certifications in various technologies and frameworks. 
 
 - PowerInterviewAI ([GitHub](https://github.com/PowerInterviewAI) | [Desktop App](https://github.com/PowerInterviewAI/client-app) | [Website](https://www.powerinterviewai.com))
 - Grammar AI ([GitHub](https://github.com/vectorleap-pulse/grammar-ai))
+- Job Agent ([GitHub](https://github.com/anton-karlovskiy/job-agent))
 - AI Brochure Generator ([GitHub](https://github.com/anton-karlovskiy/ai-brochure-generator))
 - AudioMassAI at Google Chrome ([GitHub](https://github.com/addyosmani/audioMassAI) | [Web App](https://audio.addy.ie))
 - Say at Google Chrome ([GitHub](https://github.com/addyosmani/say) | [Web App](https://say.addy.ie))
