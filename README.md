@@ -120,6 +120,7 @@ I've earned professional certifications in various technologies and frameworks. 
 
 ### 💡 Practice Projects
 
+- Airline Support Agent ([GitHub](https://github.com/anton-karlovskiy/airline-support-agent))
 - React Minimal Concepts with Vite ([GitHub](https://github.com/anton-karlovskiy/react-minimal-concepts-with-vite) | [Web App](https://react-minimal-concepts-with-vite.vercel.app))
 - React Minimal Concepts with Next.js ([GitHub](https://github.com/anton-karlovskiy/react-minimal-concepts-with-next) | [Web App](https://react-minimal-concepts-with-next.vercel.app))
 - Elegant Context ([GitHub](https://github.com/anton-karlovskiy/elegant-context) | [Web App](https://elegant-context-udemy.vercel.app))
