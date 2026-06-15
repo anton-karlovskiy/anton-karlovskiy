@@ -86,6 +86,7 @@ I've earned professional certifications in various technologies and frameworks. 
 - Grammar AI ([GitHub](https://github.com/vectorleap-pulse/grammar-ai))
 - Job Agent ([GitHub](https://github.com/anton-karlovskiy/job-agent))
 - AI Brochure Generator ([GitHub](https://github.com/anton-karlovskiy/ai-brochure-generator))
+- Meeting Scribe ([GitHub](https://github.com/anton-karlovskiy/meeting-scribe))
 - AudioMassAI at Google Chrome ([GitHub](https://github.com/addyosmani/audioMassAI) | [Web App](https://audio.addy.ie))
 - Say at Google Chrome ([GitHub](https://github.com/addyosmani/say) | [Web App](https://say.addy.ie))
 - Quicklink at Google Chrome ([GitHub](https://github.com/GoogleChromeLabs/quicklink) | [Website](https://getquick.link) | [Article](https://web.dev/articles/quicklink))
