@@ -48,11 +48,12 @@ I've earned professional certifications in various technologies and frameworks. 
 - [Testing React Apps](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/epic-react%20certificates/Anton%20K.-epic-react-certificate%20(Testing%20React%20Apps).pdf)
 
 **Udemy Certificates:**
-- [Complete A.I. & Machine Learning, Data Science Bootcamp](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-70660fcc-aad0-44f2-bc1d-ce96837be7f5%20(Complete%20A.I.%20%26%20Machine%20Learning%2C%20Data%20Science%20Bootcamp).pdf)
 - [Fundamentals of Financial Services](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-90e08d2c-f8c0-4d34-ba02-cded575c2fd5%20(Fundamentals%20of%20Financial%20Services).pdf)
 - [Introduction to WebRTC](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-LJZAW30W%20(Introduction%20to%20WebRTC).pdf)
-- [Claude Code - The Practical Guide](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-49fa0206-f1c4-46a3-ae59-281af386ed26%20(Claude%20Code%20-%20The%20Practical%20Guide).pdf)
+- [The Complete Cryptocurrency Course: More than 5 Courses in 1](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-7891c8f4-a360-44a0-9a04-b181c0deefca%20(The%20Complete%20Cryptocurrency%20Course%20-%20More%20than%205%20Courses%20in%201).pdf)
+- [Complete A.I. & Machine Learning, Data Science Bootcamp](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-70660fcc-aad0-44f2-bc1d-ce96837be7f5%20(Complete%20A.I.%20%26%20Machine%20Learning%2C%20Data%20Science%20Bootcamp).pdf)
 - [AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-d5a95adc-f14e-449a-aab0-e6ea1da02f66%20(AI%20Engineer%20Core%20Track%20-%20LLM%20Engineering%2C%20RAG%2C%20QLoRA%2C%20Agents).pdf)
+- [Claude Code - The Practical Guide](https://github.com/anton-karlovskiy/anton-karlovskiy/blob/main/certificates/Udemy%20certificates/UC-49fa0206-f1c4-46a3-ae59-281af386ed26%20(Claude%20Code%20-%20The%20Practical%20Guide).pdf)
 
 ### 💼 Work Experience
 
