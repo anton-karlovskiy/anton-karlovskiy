@@ -83,6 +83,7 @@ I've earned professional certifications in various technologies and frameworks. 
 
 ### 🚀 Projects
 
+- AI Interior Restyler ([GitHub](https://github.com/anton-karlovskiy/ai-interior-restyler) | [Web App](https://ai-interior-restyler.vercel.app))
 - PowerInterviewAI ([GitHub](https://github.com/PowerInterviewAI) | [Desktop App](https://github.com/PowerInterviewAI/client-app) | [Website](https://www.powerinterviewai.com))
 - Grammar AI ([GitHub](https://github.com/vectorleap-pulse/grammar-ai))
 - Job Agent ([GitHub](https://github.com/anton-karlovskiy/job-agent))
